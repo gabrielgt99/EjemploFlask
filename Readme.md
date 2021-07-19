@@ -40,14 +40,11 @@ python src/app.py
 ```
 
 # Referencias
-## MySQL
-Se baso en https://github.com/tutorialesvip/Docker-Compose-MySQL
+[MySQL](https://github.com/tutorialesvip/Docker-Compose-MySQL)
 
-## Flask API
-Se baso en https://www.youtube.com/watch?v=MvVqjQqSdM4
+[Flask API](https://www.youtube.com/watch?v=MvVqjQqSdM4)
 
-## Documentacion Swagger UI
-Se baso en 
+[Swagger UI]()
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
