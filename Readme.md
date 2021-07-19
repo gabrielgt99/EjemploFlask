@@ -39,7 +39,7 @@ Posicionado en la raiz del proyecto ```/``` se levanta el API con
 python src/app.py
 ```
 
-# Referencias
+## Referencias
 [MySQL](https://github.com/tutorialesvip/Docker-Compose-MySQL)
 
 [Flask API](https://www.youtube.com/watch?v=MvVqjQqSdM4)
