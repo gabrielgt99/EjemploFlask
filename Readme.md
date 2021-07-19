@@ -21,7 +21,11 @@ Se activa con el entorno virtual con
 source venv/bin/activate
 ```
 
-esto para un entorno Linux. Se debe hacer la instalacion con ``pip`` de los paquetes expuestos en ``REQUERIMENTS``.
+esto para un entorno Linux. Se debe hacer la instalacion de los paquetes expuestos en ``REQUERIMENTS``
+
+```bash
+pip install -r REQUERIMENTS
+```
 
 # Inicializar Docker con MySQL
 Para desplegar MySQL, verificar las credenciales y usuarios de acceso en el archivo ``mysql/docker-compose.yml``, situandose en la carpeta ``mysql`` se levanta el contenedo con el comando 
